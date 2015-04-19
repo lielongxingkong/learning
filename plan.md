@@ -26,6 +26,9 @@
 > 1. 《鸟哥的Linux私房菜（基础学习篇）》之第一部分、第二部分、第三部分 + 20、22、23章 
 > 
 > 2. [RHEL官方手册](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/)
+> 3. [浅析 Linux 初始化 init 系统，第 1 部分: sysvinit](https://www.ibm.com/developerworks/cn/linux/1407_liuming_init1/)
+> 4. [浅析 Linux 初始化 init 系统，第 2 部分: UpStart](http://www.ibm.com/developerworks/cn/linux/1407_liuming_init2/)
+> 5. [浅析 Linux 初始化 init 系统，第 3部分: Systemd](http://www.ibm.com/developerworks/cn/linux/1407_liuming_init3/)
 
 #### 开发工具
 + vim
