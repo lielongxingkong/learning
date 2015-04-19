@@ -161,9 +161,12 @@
 + 组件版本
 	+ Qemu
 	+ Kernel、KVM、virtio backend
+	+ vdsm
 	+ libvirt
 	+ Windows Guest Tool
-
++ vdsm
+	+ 原理和结构
+	+ 使用方法
 + 虚拟机管理
 	+ 虚拟机迁移
 		+ 跨主机，不跨存储
@@ -171,7 +174,7 @@
 		+ 跨主机，跨存储
 	+ 模板管理
 	+ 快照管理
-
+	
 + 存储管理
 	+ SAN和NAS的使用方式
 	+ 分布式存储支持进展 
