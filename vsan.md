@@ -162,8 +162,8 @@ Sysvinit Upstart Systemd的资料可在网上搜集
 + Rados
 + librbd
 
-### 5. Xen相关
-+ Xen体系结构
+### 5. 虚拟化与存储
++ Xen和KVM体系结构
 + PV on HVM
 + qdisk
 
