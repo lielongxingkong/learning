@@ -232,7 +232,7 @@
 		+ 接口设备/dev/kvm和API
 	+ virtio系列模块
 		+ 体系结构
-		+ virtio总线、ring、balloon
+		+ virtio ring、pci、balloon
 		+ virtio blk、net设备驱动
 		+ vhost
 	+ 调优方法
