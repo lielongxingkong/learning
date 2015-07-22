@@ -199,13 +199,6 @@
 
 > 参考资料：
 
-> 1. [oVirt官网](http://www.ovirt.org/Home)
-> 2. [RHEV官方手册](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Virtualization/)
-> 3. [oVirt中的存储管理](http://www.ibm.com/developerworks/cn/cloud/library/1209_xiawc_ovirt/)
-> 4. [Ovirt Storage Overview](http://www.ovirt.org/images/3/3d/OVirt_VDSM_Storage_20111102.pdf)
-> 5. [sanlock原理介绍及应用](http://www.ibm.com/developerworks/cn/linux/1404_zhouzs_sanlock/)
-
-
 
 ### Appendix A： Linux内核编程
 + 简单模块编写
