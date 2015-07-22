@@ -193,12 +193,32 @@
 
 ### 2. Ceph
 + 体系结构
-+ Rados
+	+ Ceph Monitor
+	+ Ceph OSD
+	+ CRUSH
+	+ Cache Tiering
+	+ Erasure Coding
++ 安装部署和集群管理
+	+ ceph-deploy
+	+ calamari
++ librados
 + librbd
-
++ 可靠性分析
++ 性能优化
 
 > 参考资料：
 
+> 1. [ceph官方手册](http://ceph.com/docs/master/)
+> 2. [王豪迈博客](http://www.wzxue.com)
+> 3. [朱荣泽博客](http://way4ever.com)
+> 4. [Sebastien-Han博客](http://www.sebastien-han.fr/blog/)
+> 5. [章宇博客](http://yizhaolingyan.net)
+> 6. [ustack博客](https://www.ustack.com/category/blog/ceph-blog/)
+> 6. [Ceph性能优化总结](http://xiaoquqi.github.io/blog/2015/06/28/ceph-performance-optimization-summary/)
+> 7. [Ceph可靠性的量化分析](http://xiaoquqi.github.io/blog/2015/03/04/ceph-reliability/)
+> 8. [打造高性能高可靠块存储系统](https://www.ustack.com/blog/build-block-storage-service/)
+> 9. [Calamari:Step-by-Step](https://ceph.com/category/ceph-gui/) 
+> 10. [Inktank Ceph Enterprise v1.1 Calamari Installation Guide](https://download.inktank.com/docs/Calamari%201.1%20Installation%20Guide.pdf)
 
 ### Appendix A： Linux内核编程
 + 简单模块编写
