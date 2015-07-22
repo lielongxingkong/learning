@@ -159,6 +159,7 @@
 > 8. [Linux文件空洞与稀疏文件](http://ilinuxkernel.com/?p=1417)
 > 9. [分布式系统工程实践](https://nfil.es/a/DfuDrV/)
 > 10. [构建大型云计算平台分布式技术的实践](http://www.infoq.com/cn/news/2014/07/aliyun-distributed)
+> 11. [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
 
 
 #### 系统虚拟化基本原理
